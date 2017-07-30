@@ -1,6 +1,6 @@
 # Stateless
 
-| A serverless app for tateless people
+| A serverless app for stateless people
 
 [![License][license-image]][license-url]
 
